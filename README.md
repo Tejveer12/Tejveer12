@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@tejveer01](https://medium.com/@tejveer01)
 
-- 💬 Ask me about **Computer Vision, Machine learning, Python, Deep learning**
+- 💬 Ask me about **Python, Computer Vision, ML, DL, Docker**
 
 - 📫 How to reach me **tejveershaky121384@gmail.com**
 
